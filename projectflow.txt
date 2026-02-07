@@ -1,2 +1,5 @@
 Create git report and clone in local
 create code.py
+dvc init
+dvc remote add -d myremote S3
+dvc add data/
